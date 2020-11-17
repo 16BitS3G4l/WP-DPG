@@ -5,4 +5,4 @@ Generate products for WooCommerce stores. It produces a CSV file with all inform
 - A sales price
 
 
-<img src="https://i.ibb.co/7Q2Q5t9/Adobe-Stock-206237719.jpg" width="400" />
+<img src="https://i.ibb.co/7Q2Q5t9/Adobe-Stock-206237719.jpg" width="250" />
