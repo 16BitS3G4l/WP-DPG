@@ -7,6 +7,10 @@ The plugin generates a WooCommerce import compatible CSV file with the following
 2. Product Type 
 3. Sales Price
 
+## Working WordPress Versions
+1. WordPress 5.6.1
+(other versions in testing)
+
 ## Quick Example Case
 <img src="https://i.ibb.co/PMPGQjL/Screenshot-from-2021-02-08-18-35-18.png">
 
