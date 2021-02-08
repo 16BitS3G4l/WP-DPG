@@ -8,7 +8,7 @@ The plugin generates a WooCommerce import compatible CSV file with the following
 3. Sales Price
 
 ## Quick Example Case
-(coming soon) 
+<img src="https://i.ibb.co/PMPGQjL/Screenshot-from-2021-02-08-18-35-18.png">
 
 ## Notes on Implementation
 WP-DPG uses images from Google's content delivery network, Gstatic, for all the images provided. Because the CDN caches this data (which was targeted by the API used for getting these images), the locations of these images might not be optimal for clients in different geographical locations. Again, this emphasizes how much of a tool WP-DPG is for a testing environment, rather than an actual production use case. 
