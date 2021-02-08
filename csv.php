@@ -24,4 +24,4 @@ class csv_writer {
         fwrite($handle, $this->str);
         fclose($handle);
     }
-} ?>
+} ?> 
